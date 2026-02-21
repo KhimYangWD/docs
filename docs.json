@@ -45,6 +45,12 @@
               "ai-tools/windsurf"
             ]
           }
+          {
+            "group": "Plant Care",
+            "pages": [
+              "fiddle" 
+            ]
+          }
         ]
       },
       {
