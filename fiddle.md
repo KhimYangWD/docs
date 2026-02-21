@@ -7,6 +7,7 @@ title: Propagate Fiddle Leaf Fig
 -   Rooting hormone.
 -   Vase with about 5 inches of clean water.
 
+## Context
 Propagating fiddle leaf figs is a good way to get new plants from a healthy existing plant. You can propagate fiddle leaf fig plants by taking cuttings from the ends of fiddle leaf fig branches and placing them in water. To expedite the rooting process, you can dip the ends of the cuttings in rooting hormones.
 
 1.  Select a good location to cut the branch. Consider:
