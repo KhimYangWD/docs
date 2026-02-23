@@ -1,16 +1,10 @@
----
-title: Propagate Fiddle Leaf Fig
----
 # Propagate Fiddle Leaf Fig
-## Prerequisites
 -   Clean garden shears.
 -   Rooting hormone.
 -   Vase with about 5 inches of clean water.
 
-## Context
 Propagating fiddle leaf figs is a good way to get new plants from a healthy existing plant. You can propagate fiddle leaf fig plants by taking cuttings from the ends of fiddle leaf fig branches and placing them in water. To expedite the rooting process, you can dip the ends of the cuttings in rooting hormones.
 
-## Steps
 1.  Select a good location to cut the branch. Consider:
 
     -   Where you want the tree to branch out as the plant will sprout new branches from the node right below the cut.
@@ -27,10 +21,8 @@ Propagating fiddle leaf figs is a good way to get new plants from a healthy exis
 
 7.  When the roots are about 2-3 inches long, transfer the new plants to a gallon-size pot filled with well-drained soil.
 
-# Result
 You should have new fiddle leaf fig plants to transplant to a pot in about two months. The original branches or stalks where you took the cuttings from will also sprout new branches, giving you a bushier looking "tree".
 
-# Next Step
 Place the new plant near a window that gets maximum indirect sunlight. Rotate the plant occasionally to promote even growth, but avoid relocating the plant too frequently. Water with 2 cups of water once a week. Wipe the leaves with a soft clean cloth every few weeks to increase sun absorption. Fertilize only occasionally.
 
 **Note:** Fiddle leaf figs don't like water-logged soil. Water only when the top 2 inches of soil is bone dry to prevent over-watering.
